@@ -7,6 +7,9 @@
 The Diabetic Patient Readmission Predictor is a machine learning project aimed at predicting the likelihood of readmission for diabetic patients within 30 days after their initial hospital discharge. By identifying high-risk patients, healthcare providers can proactively implement targeted interventions to reduce readmissions, ultimately improving patient outcomes and reducing the burden on healthcare systems.
 <br />
 
+<h2>Dataset Source and Description</h2>
+
+- <b>UCI 130 US Hospitals (10 years diabetes dataset)</b>
 
 <h2>Languages and Utilities Used</h2>
 
